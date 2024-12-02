@@ -1,4 +1,4 @@
-![Array and Objects](./images/02.jpg "Arrays and Objects in Javascript")
+![Functions in JavaScript](./images/02.jpeg "Functions in JavaScript")
 
 ## Functions in JavaScript​: Declarations, Arrow Functions, and Anonymous Functions
 
