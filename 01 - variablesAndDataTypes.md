@@ -8,14 +8,14 @@ In JavaScript, we declare variables using the keywords let and const. Both were 
 
 ### <em>let</em>
 
-##### When to use it? 
+#### When to use it? 
 - When you need a variable whose value can change.
 
-##### Characteristics:
+#### Characteristics:
 - It has block scope, i.e. it only exists within the {} block in which it was declared.
 - It can be reassigned.
 
-##### Example:
+#### Example:
 ```javascript
 let name = "John";
 name = "Mary"; // Reassignment allowed
@@ -35,14 +35,14 @@ console.log(number); // Expected output: 1
 
 ### <em>const</em>
 
-##### When to use it? 
+#### When to use it? 
 - When you want to declare a constant, i.e. a value that cannot be reassigned.
 
-##### Characteristics:
+#### Characteristics:
 - It also has a block scope.
 - The variable's value cannot be changed after its initialization, but objects and arrays can still be modified internally.
 
-##### Example:
+#### Example:
 ```javascript 
 const pi = 3.14;
 pi = 3.15; // Error: cannot reassign
